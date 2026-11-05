@@ -7,6 +7,9 @@ tags:
   - useful-information
 ---
 Whatsapp allows you to create a link to a specific number.
-To do it you put your number in https://wa.me/1xxxx.
+To do it you put your number in the link:
+```
+https://wa.me/1xxxx
+```
 1 being the code +001 for the usa, and xxxx being your phone number.
 
